@@ -10,7 +10,7 @@ function App() {
 
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="<-- icon here?" /></a>
+                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="Educational Daycare" /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -47,24 +47,37 @@ function App() {
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-shopping-cart fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Learning</h4>
-                        <p class="text-muted">To be filled in with what kind of learning you want to do</p>
+                        <h4 class="my-3">What is a Montessori?</h4>
+                        <p class="text-muted">We use system of education for young children that seeks to develop
+                        natural interests and activities rather than use formal teaching methods. Montessori is a
+                        scientifically based education approach that emphasises independence, freedom within limits,
+                        and respect for a child's natural psychological, physical, and social development.
+                        </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-laptop fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Daycare</h4>
-                        <p class="text-muted">Fill in with hours and what time frame, location, etc</p>
+                        <h4 class="my-3">Why go with this approach?</h4>
+                        <p class="text-muted">Montessori is an education philosophy and practice that fosters rigorous, 
+                        self-motivated growth for children and adolescents in all areas of their development, with a goal
+                        of nurturing each child's natural desire for knowledge, understanding, and respect. A big goal motivator
+                        for this process is learning how to learn; and to kickstart postive developmental habits at an early
+                        stage in life.
+                        </p>
                     </div>
                     <div class="col-md-4">
                         <span class="fa-stack fa-4x">
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Instilling Confidence</h4>
-                        <p class="text-muted">Instilling confidence is just a placeholder, this section can be what makes yours different or whatever you want</p>
+                        <h4 class="my-3">Catoring education</h4>
+                        <p class="text-muted">
+                        Montessori is a method of education that is based on self-directed activity, hands-on learning and collaborative
+                        play. In Montessori classrooms children make creative choices in their learning, while the classroom and the
+                        highly trained teacher offer age-appropriate activities to guide the process.
+                        </p>
                     </div>
                 </div>
             </div>
@@ -73,8 +86,8 @@ function App() {
         <section class="page-section bg-light" id="portfolio">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Gallery</h2>
-                    <h3 class="section-subheading text-muted">This section can be removed, rearranged, etc. What be good for activities</h3>
+                    <h2 class="section-heading text-uppercase">The Five Principles</h2>
+                    <h3 class="section-subheading text-muted">Montessori's use these unique idealogies for learning</h3>
                 </div>
                 <div class="row">
                     <div class="col-lg-4 col-sm-6 mb-4">
@@ -87,8 +100,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Activity 1</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">Principle 1</div>
+                                <div class="portfolio-caption-subheading text-muted">Respect for the Child</div>
                             </div>
                         </div>
                     </div>
@@ -102,8 +115,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Activity 2</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">Principle 2</div>
+                                <div class="portfolio-caption-subheading text-muted">The Absorbent Mind</div>
                             </div>
                         </div>
                     </div>
@@ -117,8 +130,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Activity 3</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">Principle 3</div>
+                                <div class="portfolio-caption-subheading text-muted">Sensitive Periods</div>
                             </div>
                         </div>
                     </div>
@@ -132,8 +145,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Edu 1</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">Principle 4</div>
+                                <div class="portfolio-caption-subheading text-muted">The Prepared Environment</div>
                             </div>
                         </div>
                     </div>
@@ -147,8 +160,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Edu 2</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">Principle 5</div>
+                                <div class="portfolio-caption-subheading text-muted">Auto education</div>
                             </div>
                         </div>
                     </div>
@@ -162,8 +175,8 @@ function App() {
                                 <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
-                                <div class="portfolio-caption-heading">Edu 3</div>
-                                <div class="portfolio-caption-subheading text-muted">TBD</div>
+                                <div class="portfolio-caption-heading">For more information</div>
+                                <div class="portfolio-caption-subheading text-muted">Click on the link here</div>
                             </div>
                         </div>
                     </div>
@@ -174,8 +187,8 @@ function App() {
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">About</h2>
-                    <h3 class="section-subheading text-muted">Why do a montessori? Steps listed and examples below</h3>
+                    <h2 class="section-heading text-uppercase">Catored Activates</h2>
+                    <h3 class="section-subheading text-muted">Planned events include...</h3>
                 </div>
                 <ul class="timeline">
                     <li>
@@ -183,9 +196,9 @@ function App() {
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2019</h4>
-                                <h4 class="subheading">An Idea is Born</h4>
+                                <h4 class="subheading">Activity 1</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Fio discovers she wants to do a daycare because.....</p></div>
+                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -193,9 +206,9 @@ function App() {
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2020</h4>
-                                <h4 class="subheading">The Dream Team</h4>
+                                <h4 class="subheading">Activity 2</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">Fio meets the other person she was going to be doing the daycare with</p></div>
+                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
                         </div>
                     </li>
                     <li>
@@ -203,9 +216,9 @@ function App() {
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2022</h4>
-                                <h4 class="subheading">Planning it out</h4>
+                                <h4 class="subheading">Activity 3</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">We want to do x, y, and z to help kids</p></div>
+                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -213,9 +226,9 @@ function App() {
                         <div class="timeline-panel">
                             <div class="timeline-heading">
                                 <h4>2025</h4>
-                                <h4 class="subheading">Opening day</h4>
+                                <h4 class="subheading">Activity 4</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">We are excited to be starting our first day on...</p></div>
+                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
