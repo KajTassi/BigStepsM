@@ -72,7 +72,7 @@ function App() {
                             <i class="fas fa-circle fa-stack-2x text-primary"></i>
                             <i class="fas fa-lock fa-stack-1x fa-inverse"></i>
                         </span>
-                        <h4 class="my-3">Catoring education</h4>
+                        <h4 class="my-3">What makes our education unique?</h4>
                         <p class="text-muted">
                         Montessori is a method of education that is based on self-directed activity, hands-on learning and collaborative
                         play. In Montessori classrooms children make creative choices in their learning, while the classroom and the
@@ -97,7 +97,7 @@ function App() {
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/1.jpg" alt="..." />
+                                <img class="img-fluid" src="assets/images/portfolio/1.jpg" alt="..." />
                             </a>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 1</div>
