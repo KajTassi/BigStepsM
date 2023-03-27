@@ -10,7 +10,7 @@ function App() {
 
         <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
             <div class="container">
-                <a class="navbar-brand" href="#page-top"><img src="assets/img/navbar-logo.svg" alt="Educational Daycare" /></a>
+                <a class="navbar-brand" href="#page-top"><img src="images/stairs.png" alt="Educational Daycare" /></a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars ms-1"></i>
@@ -93,57 +93,45 @@ function App() {
                     <div class="col-lg-4 col-sm-6 mb-4">
 
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/images/portfolio/1.jpg" alt="..." />
-                            </a>
+                            <div class="text-center">
+                                <img class="img-fluid" src="images/respect2.png" alt="..." />
+                            </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 1</div>
                                 <div class="portfolio-caption-subheading text-muted">Respect for the Child</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
 
+                    <div class="col-lg-4 col-sm-6 mb-4">
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/2.jpg" alt="..." />
-                            </a>
+                            <div class="text-center">
+                                <img class="img-fluid" src="images/absorbent.png" alt="..." />
+                            </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 2</div>
                                 <div class="portfolio-caption-subheading text-muted">The Absorbent Mind</div>
                             </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-sm-6 mb-4">
 
+                    <div class="col-lg-4 col-sm-6 mb-4">  
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/3.jpg" alt="..." />
-                            </a>
-                            <div class="portfolio-caption">
+                            <div class="text-center">
+                                <img class="img-fluid" src="images/sensitive.png" alt="..." />
+                            </div>
+                                <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 3</div>
-                                <div class="portfolio-caption-subheading text-muted">Sensitive Periods</div>
+                                <div class="portfolio-caption-subheading text-muted">Sensitive Time Periods</div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
-
+                    
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/4.jpg" alt="..." />
-                            </a>
+                            <div class="text-center">
+                                <img class="img-fluid" src="images/environment.png" alt="..." />
+                            </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 4</div>
                                 <div class="portfolio-caption-subheading text-muted">The Prepared Environment</div>
@@ -153,12 +141,9 @@ function App() {
                     <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
 
                         <div class="portfolio-item">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
-                                <img class="img-fluid" src="assets/img/portfolio/5.jpg" alt="..." />
-                            </a>
+                            <div class="text-center">
+                                <img class="img-fluid" src="images/auto.png" alt="..." />
+                            </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">Principle 5</div>
                                 <div class="portfolio-caption-subheading text-muted">Auto education</div>
@@ -168,15 +153,19 @@ function App() {
                     <div class="col-lg-4 col-sm-6">
 
                         <div class="portfolio-item">
+                            <div class="text-center">
                             <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
                                 <div class="portfolio-hover">
                                     <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
                                 </div>
-                                <img class="img-fluid" src="assets/img/portfolio/6.jpg" alt="..." />
+                                <img class="img-fluid" src="images/learn.png" alt="..." />
                             </a>
+                            </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">For more information</div>
-                                <div class="portfolio-caption-subheading text-muted">Click on the link here</div>
+                                <div class="portfolio-caption-subheading text-muted">Click on the link: 
+                                <a href="https://montessorifortoday.com/the-5-montessori-principles-what-they-are-and-how-to-apply-them">here</a>
+                                </div>
                             </div>
                         </div>
                     </div>
