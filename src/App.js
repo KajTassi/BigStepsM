@@ -177,17 +177,19 @@ function App() {
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Catored Activates</h2>
-                    <h3 class="section-subheading text-muted">Planned events include...</h3>
+                    <h3 class="section-subheading text-muted">Our activities are designed to stimulate the young 
+                    mind and help develop early motor skills at a young age.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/1.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/sand.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2019</h4>
-                                <h4 class="subheading">Activity 1</h4>
+                                <h4 class="subheading">Pouring and scooping with sand</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
+                            <div class="timeline-body"><p class="text-muted">It may seem simple, but letting
+                            toddlers sculpt sand with water gives them an early outlet to be creative. It also
+                            lets them work on their motor skills while interacting with a new material</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
