@@ -176,16 +176,16 @@ function App() {
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Catored Activates</h2>
+                    <h2 class="section-heading text-uppercase">Activates for Learning</h2>
                     <h3 class="section-subheading text-muted">Our activities are designed to stimulate the young 
                     mind and help develop early motor skills at a young age.</h3>
                 </div>
                 <ul class="timeline">
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/sand.png" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/bucket.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4 class="subheading">Pouring and scooping with sand</h4>
+                                <h4 class="subheading">Pouring and Sculpting with Sand</h4>
                             </div>
                             <div class="timeline-body"><p class="text-muted">It may seem simple, but letting
                             toddlers sculpt sand with water gives them an early outlet to be creative. It also
@@ -193,33 +193,39 @@ function App() {
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/2.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/cards.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2020</h4>
-                                <h4 class="subheading">Activity 2</h4>
+                                <h4 class="subheading">Classification Cards</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
+                            <div class="timeline-body"><p class="text-muted">Classification cards are designed
+                            to help children name and identify objects in their enviroment. This can also be geared
+                            towards learning things like vegetables or different types of animals. Learning these
+                            new things can take aware hesitation or fear when learning.</p></div>
                         </div>
                     </li>
                     <li>
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/3.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/cutting.jpg" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2022</h4>
-                                <h4 class="subheading">Activity 3</h4>
+                                <h4 class="subheading">Cutting and Crafting with Paper</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
+                            <div class="timeline-body"><p class="text-muted">Activities featuring basic arts and
+                            crafts can go a long way towards sharpening motor skills, working with tools, and 
+                            practicing creativity. Cutting paper in a straight line gives the child an oppurnity to use
+                            both hands and practice the importance of accuracy.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
-                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="assets/img/about/4.jpg" alt="..." /></div>
+                        <div class="timeline-image"><img class="rounded-circle img-fluid" src="images/jigsaw.png" alt="..." /></div>
                         <div class="timeline-panel">
                             <div class="timeline-heading">
-                                <h4>2025</h4>
-                                <h4 class="subheading">Activity 4</h4>
+                                <h4 class="subheading">Puzzles and Maps</h4>
                             </div>
-                            <div class="timeline-body"><p class="text-muted">To be decided</p></div>
+                            <div class="timeline-body"><p class="text-muted">Puzzles are a great way to both encourage
+                            groups of children to work together and teach them about the content of the puzzle in a hands
+                            on way. A popular example would be putting together pices of both regional and domestic maps which provides
+                            a great oppurnity to learn geography in an engaging way.</p></div>
                         </div>
                     </li>
                     <li class="timeline-inverted">
@@ -229,7 +235,7 @@ function App() {
                                 <br />
                                 Of Our
                                 <br />
-                                Story!
+                                Learning!
                             </h4>
                         </div>
                     </li>
@@ -256,19 +262,20 @@ function App() {
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/2.jpg" alt="..." />
-                            <h4>Kaj Tassi</h4>
-                            <p class="text-muted">Web Design</p>
+                            <img class="mx-auto rounded-circle" src="images/gennady.jpg" alt="..." />
+                            <h4>Gennady</h4>
+                            <p class="text-muted">Program planner</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
                         </div>
+
                     </div>
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/3.jpg" alt="..." />
-                            <h4>Gennady</h4>
-                            <p class="text-muted">Program planner</p>
+                            <img class="mx-auto rounded-circle" src="images/kaj3.jpg" alt="..." />
+                            <h4>Kaj Tassi</h4>
+                            <p class="text-muted">Web Design</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Larry Parker LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -355,7 +362,7 @@ function App() {
         <footer class="footer py-4">
             <div class="container">
                 <div class="row align-items-center">
-                    <div class="col-lg-4 text-lg-start">Copyright &copy; Big Steps Montessori</div>
+                    <div class="col-lg-4 text-lg-start"></div>
                     <div class="col-lg-4 my-3 my-lg-0">
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Twitter"><i class="fab fa-twitter"></i></a>
                         <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Facebook"><i class="fab fa-facebook-f"></i></a>
