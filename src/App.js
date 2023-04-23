@@ -154,17 +154,15 @@ function App() {
 
                         <div class="portfolio-item">
                             <div class="text-center">
-                            <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
-                                <div class="portfolio-hover">
-                                    <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
-                                </div>
+                            
+                                
                                 <img class="img-fluid" src="images/learn.png" alt="..." />
-                            </a>
+                            
                             </div>
                             <div class="portfolio-caption">
                                 <div class="portfolio-caption-heading">For more information</div>
                                 <div class="portfolio-caption-subheading text-muted">Click on the link: 
-                                <a href="https://montessorifortoday.com/the-5-montessori-principles-what-they-are-and-how-to-apply-them">here</a>
+                                <a href="https://montessorifortoday.com/the-5-montessori-principles-what-they-are-and-how-to-apply-them"> here</a>
                                 </div>
                             </div>
                         </div>
@@ -176,7 +174,7 @@ function App() {
         <section class="page-section" id="about">
             <div class="container">
                 <div class="text-center">
-                    <h2 class="section-heading text-uppercase">Activates for Learning</h2>
+                    <h2 class="section-heading text-uppercase">Education Based Activities</h2>
                     <h3 class="section-subheading text-muted">Our activities are designed to stimulate the young 
                     mind and help develop early motor skills at a young age.</h3>
                 </div>
@@ -252,9 +250,9 @@ function App() {
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="team-member">
-                            <img class="mx-auto rounded-circle" src="assets/img/team/1.jpg" alt="..." />
-                            <h4>Fio</h4>
-                            <p class="text-muted">title</p>
+                            <img class="mx-auto rounded-circle" src="images/fio.jpg" alt="..." />
+                            <h4>Fiorella Barchini</h4>
+                            <p class="text-muted">Program Manager</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Parveen Anand LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -263,8 +261,8 @@ function App() {
                     <div class="col-lg-4">
                         <div class="team-member">
                             <img class="mx-auto rounded-circle" src="images/gennady.jpg" alt="..." />
-                            <h4>Gennady</h4>
-                            <p class="text-muted">Program planner</p>
+                            <h4>Gennady Ivanchenko</h4>
+                            <p class="text-muted">Program Planner</p>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Twitter Profile"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen Facebook Profile"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-dark btn-social mx-2" href="#!" aria-label="Diana Petersen LinkedIn Profile"><i class="fab fa-linkedin-in"></i></a>
@@ -311,7 +309,7 @@ function App() {
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Feel free to ask questions or check scheduling!</h3>
+                    <h3 class="section-subheading text-muted">Feel free to ask questions or future check scheduling!</h3>
                 </div>
 
                 <form id="contactForm" data-sb-form-api-token="API_TOKEN">
