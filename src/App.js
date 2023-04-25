@@ -281,7 +281,8 @@ function App() {
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">We do this, this and this well...</p></div>
+                    <div class="col-lg-8 mx-auto text-center"><p class="large text-muted">* Please note, some of these items are in flux
+                    and are functioning as placeholders at the moment.</p></div>
                 </div>
             </div>
         </section>
@@ -309,7 +310,8 @@ function App() {
             <div class="container">
                 <div class="text-center">
                     <h2 class="section-heading text-uppercase">Contact Us</h2>
-                    <h3 class="section-subheading text-muted">Feel free to ask questions or future check scheduling!</h3>
+                    <h3 class="section-subheading text-muted">Please note, this contact form is not activated yet, and we are
+                    planning to establish our company email soon!</h3>
                 </div>
 
                 <form id="contactForm" data-sb-form-api-token="API_TOKEN">

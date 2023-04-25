@@ -11220,6 +11220,7 @@ p {
   margin-bottom: 1rem;
 }
 .page-section h3.section-subheading, .page-section .section-subheading.h3 {
+  color: white;
   font-size: 1rem;
   font-weight: 400;
   font-style: italic;
